@@ -84,4 +84,4 @@ npm start
 1. walk students through
 2. encourage students to attempt on own, facilitate by interacting with students
 
-# ...shortened for brevity, this is a sample
+#### ...shortened for brevity, this is a sample
