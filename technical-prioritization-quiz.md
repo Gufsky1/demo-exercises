@@ -49,8 +49,8 @@ keep in mind, there is no right or wrong answer, ask questions.  We will walk th
 - Ask questions to facilitate finding out more about what we are looking for (depends on list, students)
 
 ##### Observe & Assess
-Look for Data Driven Thinking (asking for data about items, caring about Data vs Opinion)
-Look for UX Empathy (caring about how things impact our users)
-Look for commercial awareness (conscious thinking about business goals/objectives, etc.)
-Look for ability to investigate, question, validate
-Look for Technical preferences, abilities
+- Look for Data Driven Thinking (asking for data about items, caring about Data vs Opinion)
+- Look for UX Empathy (caring about how things impact our users)
+- Look for commercial awareness (conscious thinking about business goals/objectives, etc.)
+- Look for ability to investigate, question, validate
+- Look for Technical preferences, abilities
