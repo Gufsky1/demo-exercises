@@ -4,7 +4,7 @@
 Dive into creating a React app using create-react-app
 
 #### Description
-Students will use npm and the command line to install create-react-app and modify their first Page inside a single page application
+Students will use npm and the command line to install create-react-app and modify their first Page inside a single page application.  Once modifications are complete, the students will form into groups and perform a mini code review on each others' code
 
 #### Requirements
 Requires a primer on NPM, command line execution, basic JavaScript module import/export, Chrome devtools usage
@@ -79,9 +79,11 @@ npm start
   3. repeat for the second link
   4. replace your link text with the same method in steps 1-3
 
+#### ...shortened for brevity, this is a sample
 
 ### Example trainer instructions & notes
 1. walk students through
 2. encourage students to attempt on own, facilitate by interacting with students
+3. when exercises are complete, have students form groups of 3 and perform code review on each others code
 
 #### ...shortened for brevity, this is a sample
