@@ -1,7 +1,11 @@
 # Tech Prioritization quiz
-Objective:  Propel engineer thinking, foster problem solving skills, encourage technical team interaction, sculpt business acumen w/ technical focus.
+##### Objective
 
-Description:  Trainer will walk students through a technical prioritization exercise.  In a gist, the students will prioritize a list of technical stories/tasks and discuss reasoning with classroom.
+Propel engineer thinking, foster problem solving skills, encourage technical team interaction, sculpt business acumen w/ technical focus.
+
+##### Description
+Trainer will walk students through a technical prioritization exercise.  In a gist, the students will prioritize a list of technical stories/tasks and discuss reasoning with classroom.
+
 This exercise can be done in a group setting, individually, split into teams; depends on required pace.
 
 #### Example Student instructions
